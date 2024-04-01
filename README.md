@@ -1,10 +1,12 @@
 # Chat your PDFs 📚
 ------------
-LangChain app to chat with PDFs. This Generative AI app allows you to upload multiple PDFs and it uses OpenAI's LLM to provide completions.
+LangChain app to chat with PDFs. This Generative AI app allows you to upload multiple PDFs and it uses OpenAI's large language model (LLM) to provide completions.
+
+`Keywords:` Generative AI, LangChain, Retrieval Augmented Generation (RAG), Large Language Models (LLMs), Python, Streamlit
 
 ## Introduction
 ------------
-This is a Python application designed for chatting with multiple PDF documents. You can ask questions about the PDFs using natural language, and the app will respond with relevant information extracted from the documents. This app employs an OpenAI large language model (LLM) to ensure accurate answers to your queries.
+This is a Python application designed for chatting with multiple PDF documents. You can ask questions about the PDFs using natural language, and the app will respond with relevant information extracted from the documents. This app employs an OpenAI LLM to ensure accurate answers to your queries.
 
 ## How it works?
 ------------
