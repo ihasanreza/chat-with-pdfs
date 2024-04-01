@@ -25,7 +25,7 @@ The application operates through these steps to deliver responses to your questi
 
 5. `Response Generation:` The selected chunks are fed into the language model (along with the user question and chat history), which generates a response based on the pertinent content found within the PDFs.
 <p align="center">
-  <img src="./img/chatbot-response.png" alt="Diagram" width="800"/>
+  <img src="./img/response.png" alt="Diagram" width="800"/>
 </p>
 
 ## Dependencies & Installation
